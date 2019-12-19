@@ -1,0 +1,89 @@
+{
+    "name": "Huddle",
+    "description": "Team collaboration & project management software for enterprise and government. Manage tasks, projects and documents simply in secure cloud workspaces.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/423-huddle.jpg",
+    "tags": [
+        "api provider",
+        "api united kingdom",
+        "content",
+        "files",
+        "have api",
+        "hypermedia api",
+        "projects"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/huddle\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Huddle",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/423-huddle.jpg",
+            "humanURL": "http:\/\/www.huddle.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/huddle-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/huddle-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.huddle.net\/entry"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.huddle.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/huddle"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/huddle"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.huddle.com\/developers\/huddle-api\/"
+        },
+        {
+            "type": "Email",
+            "url": "api@huddle.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@huddle.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@huddle.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Huddle"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.huddle.com\/product\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/huddle"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.huddle.com"
+        }
+    ]
+}
